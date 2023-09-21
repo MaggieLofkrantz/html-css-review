@@ -146,6 +146,13 @@ nav ul {
 
 nav ul li {
     padding-left: 1.25em;
+    text-decoration: none;
+}
+
+nav ul li a:visited,
+nav ul li a:link {
+    text-decoration: none;
+    color: #DEC9E9; 
 }
 
 nav ul li a:hover,
